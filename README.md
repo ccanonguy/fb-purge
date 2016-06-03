@@ -1,5 +1,7 @@
-A JavaScript code to close your Facebook account from wherever you've logged in
+Facebook purger
 ===
+
+A JavaScript code to close your Facebook account from wherever you've logged in
 
 # How to use?
 
